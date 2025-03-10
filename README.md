@@ -1,6 +1,6 @@
 Olá! 👋 Sou o Henrique. 
 
-Atualmente, trabalho como programador front-end, estou desenvolvendo minhas habilidades e aprendendo mais sobre o mundo da tecnologia.
+Atualmente, trabalho como programador front-end. Estou desenvolvendo minhas habilidades e aprendendo mais sobre o mundo da tecnologia.
 
 💻 Tecnologias e Aprendizados:
 - Explorando HTML, CSS e JavaScript
