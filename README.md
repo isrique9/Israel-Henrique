@@ -1,4 +1,4 @@
-Olá! 👋 Sou Henrique 
+Olá! 👋 Sou o Henrique. 
 
 Atualmente, trabalho como programador front-end, estou desenvolvendo minhas habilidades e aprendendo mais sobre o mundo da tecnologia.
 
