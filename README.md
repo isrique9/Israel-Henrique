@@ -3,7 +3,7 @@ Olá! 👋 Sou o Henrique.
 Atualmente, trabalho como programador front-end. Estou desenvolvendo minhas habilidades e aprendendo mais sobre o mundo da tecnologia.
 
 💻 Tecnologias e Aprendizados:
-- Explorando HTML, CSS e JavaScript
+- Explorando C#, Python, HTML, CSS e JavaScript
 - Aprendendo sobre frameworks e bibliotecas front-end  
 - Interesse em boas práticas e acessibilidade na web
 
