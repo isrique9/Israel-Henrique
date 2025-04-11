@@ -2,9 +2,9 @@
 
 🎓 Desenvolvedor Front-end na Prefeitura de Cajamar  
 🚀 Iniciante motivado em constante aprendizado  
-🧠 Apaixonado por tecnologia, design e projetos com propósito
+🧠 Apaixonado por tecnologia e design
 
-## 💻 Tecnologias que tenho utilizado
+## 💻 Tecnologias:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
@@ -21,7 +21,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&langs_count=6&theme=tokyonight)
 
 ## 🐾 Projeto em destaque
-Aplicativo web desenvolvido com Flask e HTML/CSS/JS. Permite visualizar e adotar animais com filtros por categoria e formulário validado com Flask-WTF.
-
-## 📫 Entre em contato
-- ✉️ henrique@email.com
+Aplicativo web desenvolvido com Flask e HTML/CSS/JS. Permite visualizar e adotar animais filtrados por categoria preenchendo um formulário validado com Flask-WTF.
