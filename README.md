@@ -15,9 +15,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
 
-## 📊 Linguagens mais usadas
+## 📊 Linguagens mais usadas:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&langs_count=6&theme=tokyonight)
 
-## 🐾 Projeto em destaque
+# 🚀 Projeto em destaque:
+
+## Projeto Patas🐾:
 Aplicativo web desenvolvido com Flask e HTML/CSS/JS. Permite visualizar e adotar animais filtrados por categoria preenchendo um formulário validado com Flask-WTF.
