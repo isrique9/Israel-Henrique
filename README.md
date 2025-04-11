@@ -18,7 +18,7 @@
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&langs_count=6&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isrique9&layout=compact&langs_count=6&theme=tokyonight)
 
 ## 🐾 Projeto em destaque
 Aplicativo web desenvolvido com Flask e HTML/CSS/JS. Permite visualizar e adotar animais com filtros por categoria e formulário validado com Flask-WTF.
